@@ -1,7 +1,11 @@
-# GIT PRACTICE
+# 🚀 Git Practice
 
-## Debotos
+## 👤 Author
 
-### What this project does?
+**Debotos**
 
-This is just a git practice project.
+---
+
+## 📌 Project Overview
+
+This project is created for practicing Git concepts, including version control, commits, branching.
